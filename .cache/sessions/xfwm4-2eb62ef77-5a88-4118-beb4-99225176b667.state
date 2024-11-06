@@ -1,0 +1,10 @@
+[CLIENT] 0x3e00006
+  [CLIENT_LEADER] 0x3e00008
+  [RES_NAME] wireshark
+  [RES_CLASS] Wireshark
+  [WM_NAME] The Wireshark Network Analyzer
+  [GEOMETRY] (55,81,750,550)
+  [GEOMETRY-MAXIMIZED] (55,81,750,550)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10080

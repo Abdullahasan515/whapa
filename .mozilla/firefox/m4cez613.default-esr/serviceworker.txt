@@ -1,0 +1,11 @@
+8
+
+https://www.midasbuy.com/
+https://www.midasbuy.com/serviceWorker
+true
+{a03f6406-bc1c-47f7-8b93-941ebb48be5d}
+0
+1730473802285989
+1730473802286963
+1730473794231878
+#
